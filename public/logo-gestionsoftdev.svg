@@ -1,0 +1,59 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 440 110"
+     role="img"
+     aria-labelledby="logo-title">
+
+  <title id="logo-title">GESTIONSOFTDEV</title>
+
+  <defs>
+    <linearGradient id="electricBlue"
+      x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1769FF"/>
+      <stop offset="100%" stop-color="#00CFFF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Isotipo G -->
+  <g fill="none"
+     stroke="url(#electricBlue)"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <path d="M79 27
+             A36 36 0 1 0 86 56
+             L86 51
+             L55 51"
+          stroke-width="10"/>
+
+    <!-- Conexión tecnológica -->
+    <path d="M55 51 H75 L83 43"
+          stroke-width="5"/>
+
+    <circle cx="85" cy="41" r="5"
+            fill="#00CFFF" stroke="none"/>
+  </g>
+
+  <!-- Nombre comercial -->
+  <text x="115" y="52"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="27"
+        font-weight="700"
+        letter-spacing="-1"
+        fill="#FFFFFF">
+    GESTION<tspan fill="#1769FF">SOFTDEV</tspan>
+  </text>
+
+  <!-- Eslogan -->
+  <text x="117" y="76"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10"
+        font-weight="500"
+        letter-spacing="2"
+        fill="#BFDBFE">
+    TECNOLOGÍA QUE TRANSFORMA NEGOCIOS
+  </text>
+
+</svg>
+
+
