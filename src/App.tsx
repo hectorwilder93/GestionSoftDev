@@ -7,6 +7,7 @@ import {
 } from 'lucide-react'
 import { SITE_CONFIG } from './config'
 
+
 const products = [
   {
     icon: Utensils,
